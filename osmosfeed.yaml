@@ -5,7 +5,7 @@
 
 cacheUrl: https://namacha356.github.io/rss/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
+  - href: https://prtimes.jp/index.rdf # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
   - href: https://www.smashingmagazine.com/feed/
   - href: https://www.freecodecamp.org/news/rss/
