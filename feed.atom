@@ -2,15 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://namacha356.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2023-01-02T01:20:14.892Z</updated>
+    <updated>2023-01-03T01:18:47.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://namacha356.github.io/rss/index.html"/>
     <link rel="self" href="https://namacha356.github.io/rss/feed.atom"/>
     <entry>
+        <title type="html"><![CDATA[Laravel Valet Performance – How to Prevent 504 Errors and Speed Up Valet]]></title>
+        <id>https://www.freecodecamp.org/news/speed-up-performance-in-laravel-valet/</id>
+        <link href="https://www.freecodecamp.org/news/speed-up-performance-in-laravel-valet/"/>
+        <updated>2023-01-02T23:12:30.000Z</updated>
+        <summary type="html"><![CDATA[Last week, I decided to install Laravel Valet on my Mac. But after the installation, the performance of the microservice architecture application I had it on was quite slow.  I wondered if it was an M1 issue or because I had yet to shut the machine down. I shut]]></summary>
+        <author>
+            <name>Sule-Balogun Olanrewaju Ganiu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn React in 2023]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-learn-react-in-2023/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-learn-react-in-2023/"/>
+        <updated>2023-01-02T22:59:24.000Z</updated>
+        <summary type="html"><![CDATA[As the most popular JavaScript library for building frontend applications, there has never been a better year to learn React than 2023.  In this guide, I'm going to show you the most valuable resources and tips that I believe will help you learn React faster. You'll also save a]]></summary>
+        <author>
+            <name>Reed Barger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CSS by Building the Figma Logo in Pure CSS]]></title>
+        <id>https://www.freecodecamp.org/news/learn-css-by-creating-the-figma-logo-in-pure-css/</id>
+        <link href="https://www.freecodecamp.org/news/learn-css-by-creating-the-figma-logo-in-pure-css/"/>
+        <updated>2023-01-02T22:39:24.000Z</updated>
+        <summary type="html"><![CDATA[One of the best ways to learn CSS is by creating something useful while you learn. I will show you how to use the following CSS concepts by creating the Figma logo:  * flex-wrap  * multiple classes  * border-radius What We Will Be Creating We will create]]></summary>
+        <author>
+            <name>Jennifer Bland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Protect Your Privacy Online – Five Useful Tools]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-protect-your-privacy-online/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-protect-your-privacy-online/"/>
+        <updated>2023-01-02T22:33:08.000Z</updated>
+        <summary type="html"><![CDATA[In today’s growing cyber threat landscape, it is important to learn how to protect yourself. In this article, I'll share my five favorite tools you can use to protect your privacy online. Why Online Privacy is Important Have you ever wondered how valuable your data is? Every app, website, and]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Add a Custom Network to Metamask with JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-add-custom-network-to-metamask/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-add-custom-network-to-metamask/"/>
+        <updated>2023-01-02T22:17:22.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, you can enhance the user experience of your decentralized applications (DApps) by allowing users to easily add your network to their Metamask wallet with just one click.  This simplifies the process of onboarding users to your application, since they don't have to manually add the network]]></summary>
+        <author>
+            <name>Joshua Omobola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[File Permissions in Linux – How to Use the chmod Command]]></title>
+        <id>https://www.freecodecamp.org/news/file-permissions-in-linux-chmod-command-explained/</id>
+        <link href="https://www.freecodecamp.org/news/file-permissions-in-linux-chmod-command-explained/"/>
+        <updated>2023-01-02T22:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Just as with other operating systems, multiple users can create user accounts and share the same machine running Linux OS.  But whenever different users share a system, problems of privacy can easily arise. The first user may not wish the next user to view, edit, or delete their files,]]></summary>
+        <author>
+            <name>Arunachalam B</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《人気返礼品「ふくしまの桃」》年末の品切れ"ガッカリ”を無くしたい！ 桃の返礼品1,075種類をご用意！]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000074.000055801.html</id>
         <link href="https://prtimes.jp/main/html/rd/p/000000074.000055801.html"/>
-        <updated>2023-01-01T15:40:01.000Z</updated>
+        <updated>2023-01-02T15:40:02.000Z</updated>
         <summary type="html"><![CDATA[[一般社団法人 福島市観光コンベンション協会]
 [画像1: https://prtimes.jp/i/55801/74/resize/d55801-74-71f12401434627f15ffc-2.png ]
 
@@ -25,7 +85,7 @@
         <title type="html"><![CDATA[温泉旅館でこたつ×写るんです♪プレゼント！卒業旅行や女子会に鬼怒川で1日3組限定のこたつプランがスタート！]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000002.000113494.html</id>
         <link href="https://prtimes.jp/main/html/rd/p/000000002.000113494.html"/>
-        <updated>2023-01-01T15:40:01.000Z</updated>
+        <updated>2023-01-02T15:40:02.000Z</updated>
         <summary type="html"><![CDATA[[株式会社花千郷]
 
 鬼怒川温泉 花千郷のCONCEPT
@@ -44,7 +104,7 @@
         <title type="html"><![CDATA[中小企業の活性化を目指すメディくる社、“株式会社田中構造設計” と業務提携]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000010.000108714.html</id>
         <link href="https://prtimes.jp/main/html/rd/p/000000010.000108714.html"/>
-        <updated>2023-01-01T13:40:01.000Z</updated>
+        <updated>2023-01-02T14:40:01.000Z</updated>
         <summary type="html"><![CDATA[[株式会社メディくる]
 ■今回の業務提携先についての情報（ネットニュースから抜粋）
 
@@ -59,7 +119,7 @@
         <title type="html"><![CDATA[中小企業の活性化を目指すメディくる社、“大友道明 弁護士” と業務提携]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000011.000108714.html</id>
         <link href="https://prtimes.jp/main/html/rd/p/000000011.000108714.html"/>
-        <updated>2023-01-01T13:40:01.000Z</updated>
+        <updated>2023-01-02T14:40:01.000Z</updated>
         <summary type="html"><![CDATA[[株式会社メディくる]
 ■今回の業務提携先についての情報（ネットニュースから抜粋）
 
@@ -72,7 +132,7 @@
         <title type="html"><![CDATA[「預かり資産最大1％キャッシュバックキャンペーン」実施！]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000368.000052387.html</id>
         <link href="https://prtimes.jp/main/html/rd/p/000000368.000052387.html"/>
-        <updated>2023-01-01T13:40:01.000Z</updated>
+        <updated>2023-01-02T14:40:01.000Z</updated>
         <summary type="html"><![CDATA[[株式会社外為どっとコム]
 [画像: https://prtimes.jp/i/52387/368/resize/d52387-368-41e06df24ac11c66ed33-0.png ]
 
@@ -86,13 +146,34 @@
         <title type="html"><![CDATA[【ここがKKPOKERの聖地】新宿に、大人気ポーカーアプリKKPOKERと全面的コラボの店舗がオープン]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000004.000058771.html</id>
         <link href="https://prtimes.jp/main/html/rd/p/000000004.000058771.html"/>
-        <updated>2023-01-01T13:40:01.000Z</updated>
+        <updated>2023-01-02T14:40:01.000Z</updated>
         <summary type="html"><![CDATA[[ハンターサイト株式会社]
 [画像1: https://prtimes.jp/i/58771/4/resize/d58771-4-0e50d7a45040b9649219-1.jpg ]
 
 ギルドグループは12月20日に新規店舗【KKLIVE POKER SHINJUKU】をオープンいたしました。
 
 同店舗は史上初の全面的コラボ...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The State Of Usability In 2023 🎊]]></title>
+        <id>https://smashingmagazine.com/2023/01/usability-2023/</id>
+        <link href="https://smashingmagazine.com/2023/01/usability-2023/"/>
+        <updated>2023-01-02T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[That’s how people behave on the web in 2023. Some observations from real usability testing on what people do and what they don’t do on the web. From disabled copy-paste to magic link sign-in.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[札幌市に外国人雇用支援＆コンサル会社を日本人女性社長が設立]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000001.000114310.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000001.000114310.html"/>
+        <updated>2023-01-02T07:40:01.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社 Care Family]
+近年、日本にアジア諸国から、ブルーカラーのみならず、質の高い「ホワイトカラー人材」の受け入れが積極的に始まっている。同社はこうした労働人口のグローバル化の流れを受け、海外から働きに来た方が、安心・...]]></summary>
         <author>
             <name>PR TIMES</name>
         </author>
@@ -130,17 +211,6 @@ D Capital株式会社(以下、「D Capital」)は、2022年12月28日にD Capit
 左：シャトレーゼ今治駅前店店長　久保敦／右：いまばり地域食堂連絡協議会代表　壷内和彦氏
 
 2022年12月25日（日）、...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[札幌市に外国人雇用支援＆コンサル会社を日本人女性社長が設立]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000001.000114310.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000001.000114310.html"/>
-        <updated>2023-01-01T06:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社 Care Family]
-近年、日本にアジア諸国から、ブルーカラーのみならず、質の高い「ホワイトカラー人材」の受け入れが積極的に始まっている。同社はこうした労働人口のグローバル化の流れを受け、海外から働きに来た方が、安心・...]]></summary>
         <author>
             <name>PR TIMES</name>
         </author>
@@ -729,18 +799,6 @@ CLT工法採用の背景
 株式会社デジタル・ナレッジは、2023年1月30日（月）に開催される、
 『2023年 SSK教材教具・情報展』（埼玉県大宮市）に出展致します。
 関東近郊の学習塾経営者をはじめとする教育関係者の皆様、ご来場お待ちして...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博物学研究家の荒俣宏、漫画家の山口つばさなどさまざまなジャンルの講師が参加。中高生向けプログラム「智慧の風」開校]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000005.000072297.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000005.000072297.html"/>
-        <updated>2022-12-30T11:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[NPO法人SOMA]
-智慧の風は、「観察すること」と「感覚で捉えること」を通して、様々な違いを感じ、物事を考え、整理して、編集して、自分の未来を歩むための力を育むことを目指します。
-[画像1: https://prtimes.jp/i/72297/5/r...]]></summary>
         <author>
             <name>PR TIMES</name>
         </author>
@@ -2457,6 +2515,17 @@ What‘s Next in 2023　～PITAKAの2023年の展望～
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[新作ボードゲーム ・アリーナカードゲーム「Alternate Souls（アルタネイトソウルズ）」日本語版の販売が開始。ブロックチェーンゲーム「CryptoSpells」のキャラクターも多数登場]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000238.000041264.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000238.000041264.html"/>
+        <updated>2022-12-30T02:45:02.000Z</updated>
+        <summary type="html"><![CDATA[[CryptoGames株式会社]
+ブロックチェーンゲームの開発を行うCryptoGames株式会社（東京都渋谷区、代表取締役：小澤 孝太）は、運営するブロックチェーンゲーム「CryptoSpells（クリプトスペルズ）」が協賛する、新作ボードゲーム「Alter...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[サイバーセキュリティカンファレンス「AironWorks Cyber Tokyo 2022」イベントレポートを公開]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000059.000087353.html</id>
         <link href="https://prtimes.jp/main/html/rd/p/000000059.000087353.html"/>
@@ -2973,6 +3042,35 @@ TeamPlace　エリアパスとは、地域内にある複数のワークプレ..
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【保育求人ラボ】2022年に最も読まれた転職記事は『保育士向け！職務経歴書の書き方』]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000011.000011739.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000011.000011739.html"/>
+        <updated>2022-12-28T04:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ファミリーサポート]
+[画像1: https://prtimes.jp/i/11739/11/resize/d11739-11-baba77aa62553a04ca3f-0.png ]
+
+
+
+2022年に最も読まれた転職記事は『【テンプレートあり】保育士向け！職務経歴書の書き方を解説』
+
+
+[画像2: https://p...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本酒とご当地グルメを会場内で堪能！「冬のアンテナショップ＆ご当地グルメフェア」]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000309.000021989.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000309.000021989.html"/>
+        <updated>2022-12-28T02:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ジェイアール西日本伊勢丹]
+ジェイアール京都伊勢丹では、2023年1月4日（水）から1月15日（日）の期間、「冬のアンテナショップ＆ご当地グルメフェア」を開催します。日本各地のアンテナショップより定番土産や冬の味覚を約1,200種類取り揃...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LINE FRIENDSとNetflixのアニメーションシリーズ 「ブラウン＆フレンズ」、12月30日(金)より全世界で配信開始]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000034.000040759.html</id>
         <link href="https://prtimes.jp/main/html/rd/p/000000034.000040759.html"/>
@@ -3006,35 +3104,6 @@ TeamPlace　エリアパスとは、地域内にある複数のワークプレ..
         <summary type="html"><![CDATA[No more random scripts in Python and JavaScript to transform CSV or JSON data. In this article, Alvin Bryan shows you how to use Miller, a small and powerful CLI tool, to do all your data processing.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Alvin Bryan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【素材＋縫製全て日本の先端技術によるミライのスーツが誕生！】「先端技術による未来のファッション」の創造を目指す東レグループのD2Cプロジェクト「MOONRAKERS」が新商品をリリース]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000008.000081575.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000008.000081575.html"/>
-        <updated>2022-12-27T07:40:03.000Z</updated>
-        <summary type="html"><![CDATA[[ディプロモード株式会社]
-[画像1: https://prtimes.jp/i/81575/8/resize/d81575-8-0e3f7c30a22270ab97e4-0.png ]
-
-
-
-「MOONRAKERS（ムーンレイカーズ）」（運営：ディプロモード株式会社）は、先端技術と日常生活をダイレクトにつなぐ商品...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[会話AIエージェント技術開発のエキュメノポリス、知能フレームワーク研究所よりAI学習データ開発SaaS事業について事業譲受]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000005.000101029.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000005.000101029.html"/>
-        <updated>2022-12-27T06:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社エキュメノポリス]
-[画像1: https://prtimes.jp/i/101029/5/resize/d101029-5-48db56fec4a737562e52-7.jpg ]
-
-
-エキュメノポリス社は、「人とAIが豊かに共進化するデジタル近未来社会の実現」をミッションに掲げ，教育・小売・医療...]]></summary>
-        <author>
-            <name>PR TIMES</name>
         </author>
     </entry>
     <entry>
@@ -3085,66 +3154,6 @@ TeamPlace　エリアパスとは、地域内にある複数のワークプレ..
         <summary type="html"><![CDATA[A Python dictionary is like a JavaScript object – it’s a sequence of key:value  pairs. So, you can create them like this: stack_dict = {     "frontend": "JavaScript",     "backend": "Node JS",     "markup": "HTML and JSX", } To access]]></summary>
         <author>
             <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript Execution Context – How JS Works Behind the Scenes]]></title>
-        <id>https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/</id>
-        <link href="https://www.freecodecamp.org/news/how-javascript-works-behind-the-scene-javascript-execution-context/"/>
-        <updated>2022-12-22T17:50:05.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wondered how JavaScript works behind the scenes? It's actually quite fascinating! And that's what you'll learn about here. JavaScript is a single-threaded interpreted language. Every browser has its own JavaScript engine. Google Chrome has the V8 engine, Mozilla Firefox has SpiderMonkey, and so on. They all are]]></summary>
-        <author>
-            <name>Rwitesh Bera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is enumerate() in Python? Enumeration Example]]></title>
-        <id>https://www.freecodecamp.org/news/what-is-enumerate-in-python/</id>
-        <link href="https://www.freecodecamp.org/news/what-is-enumerate-in-python/"/>
-        <updated>2022-12-22T15:56:07.000Z</updated>
-        <summary type="html"><![CDATA[The enumerate() function is one of the built-in functions in Python. It provides a handy way to access each item in an iterable, along with a count value that specifies the order in which the item was accessed.  In this article you will learn all that you need to]]></summary>
-        <author>
-            <name>Suchandra Datta</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filtering in C# – How to Filter a List with Code Examples]]></title>
-        <id>https://www.freecodecamp.org/news/filtering-in-csharp-how-to-filter-a-list-with-code-examples/</id>
-        <link href="https://www.freecodecamp.org/news/filtering-in-csharp-how-to-filter-a-list-with-code-examples/"/>
-        <updated>2022-12-21T21:45:12.000Z</updated>
-        <summary type="html"><![CDATA[Filtering through a data set is one of the most basic operations a developer should know how to perform.  Filtering [https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/filtering-data]  refers to the process of restricting the result set to contain only those elements that satisfy a specified condition. It is also known as selection.  To]]></summary>
-        <author>
-            <name>Edeh Israel Chidera</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TypeError: can't multiply sequence by non-int of type float [Solved Python Error]]]></title>
-        <id>https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error-3/</id>
-        <link href="https://www.freecodecamp.org/news/typeerror-cant-multiply-sequence-by-non-int-of-type-float-solved-python-error-3/"/>
-        <updated>2022-12-21T21:13:46.000Z</updated>
-        <summary type="html"><![CDATA[Most times when you encounter errors while coding, you can discover the reason why the error is occurring and how you can fix it in the error message. The Python error, "TypeError: can't multiply sequence by non-int of type float" is no exception to that. I have prepared this article]]></summary>
-        <author>
-            <name>Kolade Chris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Scapy – Python Networking Tool Explained]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-scapy-python-networking/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-scapy-python-networking/"/>
-        <updated>2022-12-21T21:02:17.000Z</updated>
-        <summary type="html"><![CDATA[In this post you will learn about an amazing tool named Scapy. Scapy is a Python library that enables us to send, sniff, and dissect network frames.  It is useful in a variety of use cases, one of which is to actually get some hands-on experience when you learn]]></summary>
-        <author>
-            <name>Omer Rosenbaum</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concurrent Programming in Go – Goroutines, Channels, and More Explained with Examples]]></title>
-        <id>https://www.freecodecamp.org/news/concurrent-programming-in-go/</id>
-        <link href="https://www.freecodecamp.org/news/concurrent-programming-in-go/"/>
-        <updated>2022-12-21T19:02:59.000Z</updated>
-        <summary type="html"><![CDATA[Concurrency refers to a programming language's ability to deal with lots of things at once. A good way to understand concurrency is by imagining multiple cars traveling on two lanes. Sometimes the cars overtake each other, and sometimes they stop and let others pass by. Another good example is when]]></summary>
-        <author>
-            <name>Rwitesh Bera</name>
         </author>
     </entry>
     <entry>
