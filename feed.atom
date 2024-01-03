@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://namacha356.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-02T01:07:10.164Z</updated>
+    <updated>2024-01-03T01:08:31.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://namacha356.github.io/rss/index.html"/>
     <link rel="self" href="https://namacha356.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Android Proto DataStore – Should You Use It?]]></title>
+        <id>https://www.freecodecamp.org/news/android-proto-datastore-should-you-use-it/</id>
+        <link href="https://www.freecodecamp.org/news/android-proto-datastore-should-you-use-it/"/>
+        <updated>2024-01-02T19:52:43.000Z</updated>
+        <summary type="html"><![CDATA[A few years back, Google announced the DataStore, which is a replacement for the tried and true SharedPreferences.  If you use or have used SharedPreferences in your applications, you might be thinking of making the switch. But as with everything, the main question here is: what is going to]]></summary>
+        <author>
+            <name>Tomer Ben Rachel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free WebDev and JS Bootcamps for 2024 – Learn HTML, CSS, and JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/free-webdev-and-js-bootcamps/</id>
+        <link href="https://www.freecodecamp.org/news/free-webdev-and-js-bootcamps/"/>
+        <updated>2024-01-02T16:56:47.000Z</updated>
+        <summary type="html"><![CDATA[New year's resolutions are hard. But if your goal for 2024 is to learn some Web Development or JavaScript, we want to help.  The Bad Website Club [http://badwebsite.club/] will be running a free, online, part time bootcamp based on the freeCodeCamp Web Development and JavaScript curricula back to back]]></summary>
+        <author>
+            <name>Jessica Rose</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The View Transitions API And Delightful UI Animations (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2024/01/view-transitions-api-ui-animations-part2/</id>
+        <link href="https://smashingmagazine.com/2024/01/view-transitions-api-ui-animations-part2/"/>
+        <updated>2024-01-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the second half of this mini two-part series, Adrian Bece expands on the demos from the first article to demonstrate how the View Transitions API can be used to transition not just elements between two states but the transition between full views and pages in single-page and multi-page applications.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Adrian Bece)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[今年もお世話になりました！感謝の気持ちを込めて、DR.STICK typeX年末年始の大特価大幅値下げ最大77％オフ！]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000036.000056411.html</id>
@@ -1792,6 +1822,35 @@ MTJ株式会社（本社：東京都港区、代表取締役:山重柾人）は�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[日系＆外資IT転職支援のチャレンジャーベース、外資IT企業社員の日系ITスタートアップへの転職意向調査を実施]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000003.000130585.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000003.000130585.html"/>
+        <updated>2023-12-29T08:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[チャレンジャーベース株式会社]
+アンケート詳細
+
+
+・実施期間：2023年9月29日～10月8日（10日間）
+・対象：同社オンラインメディア「チャレンジャーズアカデミー」の全会員（2023年9月末時点610名）
+・有効回答数：106名
+・回答者平均年齢：32.3...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【24%off】「Y24」がホリデーセールを開催！このお得な機会をお見逃しなく！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000535.000016079.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000535.000016079.html"/>
+        <updated>2023-12-29T08:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社PRINCIPE prive]
+Y24が日頃の感謝を込め、日本公式サイトにてホリデーセールを開催いたします。2024年1月3日(水) までの期間中、全商品24％offでご提供いたします。この機会をお見逃しなく！
+[画像1: https://prtimes.jp/i/16079/...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【会員数No.1】ネイティブキャンプ　プロサッカー選手・森田凜選手の英語学習をサポート　ネイティブキャンプがグローバルな活躍を応援]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000547.000012419.html</id>
         <link href="https://prtimes.jp/main/html/rd/p/000000547.000012419.html"/>
@@ -2555,6 +2614,23 @@ Locked，Delivered，Trusted。
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【新卒１年目がプロジェクトリーダーに】ミラクルソリューション大忘年会開催！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000012.000111634.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000012.000111634.html"/>
+        <updated>2023-12-29T01:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社ミラクルソリューション]
+
+[画像1: https://prtimes.jp/i/111634/12/resize/d111634-12-94d4e3ba7996e5628f3e-0.jpg ]
+
+
+
+
+サーバー分野における高い技術力と教育力を強みとした、システムインテグレーション事業ならびに教育・出版事業を...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Making Sense Of “Senseless” JavaScript Features]]></title>
         <id>https://smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/</id>
         <link href="https://smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/"/>
@@ -2587,50 +2663,14 @@ Locked，Delivered，Trusted。
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【展示作品募集】「FOMUS presents デジタルアート展」in坂戸　開催決定！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000004.000126799.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000004.000126799.html"/>
-        <updated>2023-12-27T06:15:02.000Z</updated>
-        <summary type="html"><![CDATA[[合同会社FOMUS]
-[画像1: https://prcdn.freetls.fastly.net/release_image/126799/4/126799-4-7ef0171668106eee5413a5fe940b61e5-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界遺産下鴨神社から日本ラグビーを祈る]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000003.000130692.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000003.000130692.html"/>
-        <updated>2023-12-27T05:40:03.000Z</updated>
-        <summary type="html"><![CDATA[[世界遺産 下鴨神社（賀茂御祖神社）]
-[画像1: https://prcdn.freetls.fastly.net/release_image/130692/3/130692-3-69fad76738019536d1e0b80c6eb13a6a-1083x722.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[セミナー参加者全員に、書籍『3年間で4億円集めた男が語るクラウドファンディング成功のコツ』プレゼント。プロデュース支援額6億円達成記念。2024年、夢を現実に。]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000009.000124380.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000009.000124380.html"/>
-        <updated>2023-12-27T03:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[スバキリ商店株式会社]
-約60名のチームでクラウドファンディングのプロジェクトプロデュースを行う、スバキリ商店株式会社（本社：大阪府大阪市：代表取締役：小西 光治）は、クラウドファンディングプロデュースによる支援金額が6億円...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「ブレイブ フロンティア ヒーローズ」4周年を記念して2024年1月27日(土)にオンラインイベント開催！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000145.000034671.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000145.000034671.html"/>
-        <updated>2023-12-27T02:15:02.000Z</updated>
-        <summary type="html"><![CDATA[[double jump.tokyo]
-[画像1: https://prtimes.jp/i/34671/145/resize/d34671-145-eb285a1826ba2a6be5c6-0.png ]
+        <title type="html"><![CDATA[【新NISA時代に積極投資を求める方へ】実践的投資学習プラットフォーム「Fincs(フィンクス)」が2024年1月に登場！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000003.000128559.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000003.000128559.html"/>
+        <updated>2023-12-28T01:45:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社アルカド]
+Fincsは投資を学びたい方と、投資について伝えたい現役投資家を繋ぐ実践的投資学習プラットフォームです
 
-ブレヒロ４周年記念 オンラインイベントについて
-
-
-『ブレイブ フロンティア ヒーローズ（ブレヒロ）』の4周年を記念...]]></summary>
+[画像1: https://prcdn.freetls.fastly.net/release_image/128559/3/128559-3-258f6d9d20dbc9f4973e8d1ae...]]></summary>
         <author>
             <name>PR TIMES</name>
         </author>
@@ -2729,26 +2769,6 @@ Locked，Delivered，Trusted。
         <summary type="html"><![CDATA[In the field of software development, effective communication between different software systems is made possible through the essential function of Application Programming Interfaces (APIs).  APIs allow developers to access and use the functionalities of a particular application, service, or platform. Postman is a powerful and user-friendly tool that simplifies]]></summary>
         <author>
             <name>Joan Ayebola</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python Curriculum 2024 Upgrade – Interactive Python Learning in your Browser]]></title>
-        <id>https://www.freecodecamp.org/news/python-curriculum-upgrade/</id>
-        <link href="https://www.freecodecamp.org/news/python-curriculum-upgrade/"/>
-        <updated>2023-12-20T16:51:12.000Z</updated>
-        <summary type="html"><![CDATA[freeCodeCamp just published a major upgrade to our Scientific Computing with Python certification. You can now learn Python coding fundamentals by building 15 projects – right in your browser. A 1 minute trailer for our newly-upgraded Scientific Computing with Python certificationHere's a full list of the 15 projects you'll build:]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn JavaScript by Building 21 Projects – a Major freeCodeCamp Curriculum Upgrade]]></title>
-        <id>https://www.freecodecamp.org/news/learn-javascript-with-new-data-structures-and-algorithms-certification-projects/</id>
-        <link href="https://www.freecodecamp.org/news/learn-javascript-with-new-data-structures-and-algorithms-certification-projects/"/>
-        <updated>2023-12-20T15:00:26.000Z</updated>
-        <summary type="html"><![CDATA[freeCodeCamp just launched a major upgrade to our JavaScript Algorithms and Data Structures Certification [https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/] . You can now learn JavaScript by building 21 projects! A trailer video for freeCodeCamp's upgraded JavaScript Data Structures and Algorithms CertificationInstead of coding through a series of challenges, you will learn the fundamentals of]]></summary>
-        <author>
-            <name>Jessica Wilkins</name>
         </author>
     </entry>
     <entry>
