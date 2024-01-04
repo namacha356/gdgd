@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://namacha356.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-01-03T01:08:31.661Z</updated>
+    <updated>2024-01-04T01:08:53.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://namacha356.github.io/rss/index.html"/>
     <link rel="self" href="https://namacha356.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[『PSYCHO-PASS サイコパス』より、デバイス風ウォッチが受注生産商品で登場！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000005008.000016756.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000005008.000016756.html"/>
+        <updated>2024-01-04T00:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社アニメイトホールディングス]
+　2012年に放送が開始されたオリジナルTVアニメ『PSYCHO-PASS サイコパス』。シビュラシステムと呼ばれる人間の心理状態や傾向を数値化して管理する近未来を舞台に、公安局刑事課に所属する監視官と執行官たちの...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年、スペイン旅行は「美しい田舎 ウエスカ」へ！ピレネー山脈、美しい村、グルメ、ロマネスク建築など、見どころ満載！クリアファイルが当たるプレゼントキャンペーンをInstagramにて開催中！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000001.000121539.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000001.000121539.html"/>
+        <updated>2024-01-04T00:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[ウエスカ県　観光プロモーション]
+[画像1: https://prtimes.jp/i/121539/1/resize/d121539-1-a2931b5ca8bae3420b66-0.jpg ]
+
+
+▼「スペインの美しい田舎 ウエスカ」webサイト ▼
+https://huesca-spain.jp/
+
+
+[表1: https://prtimes.jp/data/corp/121...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Android 14】Teclast新品登場！小型8インチタブレット「P85T」をアップグレード、最新システムAndroid 14を搭載されました！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000450.000080488.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000450.000080488.html"/>
+        <updated>2024-01-04T00:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[Teclast]
+[画像1: https://prcdn.freetls.fastly.net/release_image/80488/450/80488-450-ab060d7f1eb1f0ed04df8380edd846ae-1920x1027.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Cloud Computing? Introduction to the Cloud for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-cloud-computing/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-cloud-computing/"/>
+        <updated>2024-01-03T21:40:31.000Z</updated>
+        <summary type="html"><![CDATA[As the digital landscape continues to evolve and technology marches forward, cloud computing has remained an important topic for developers to learn. You've probably encountered cloud requirements in job listings, heard people talk about it in conversations, or seen ads by companies offering cloud services – and now you're interested]]></summary>
+        <author>
+            <name>Zubair Idris Aweda</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Git Cherry Pick and Avoid Duplicate Commits]]></title>
+        <id>https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/</id>
+        <link href="https://www.freecodecamp.org/news/git-cherry-pick-avoid-duplicate-commits/"/>
+        <updated>2024-01-03T21:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a beautiful cherry tree full of sweet, red, round fruit hanging on lush, glistening branches. But imagine if those cherries grew so quickly that the branches started bending, overlapping, and breaking...sounds chaotic right?  This is what can happen if you don't use Git's cherry-pick command properly in open]]></summary>
+        <author>
+            <name>CHRISTINE T. BELZIE</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat Enterprise Linux – Essential RHEL Concepts and Commands to Know]]></title>
+        <id>https://www.freecodecamp.org/news/red-hat-enterprise-linux-guide/</id>
+        <link href="https://www.freecodecamp.org/news/red-hat-enterprise-linux-guide/"/>
+        <updated>2024-01-03T15:54:20.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the fundamental world of Red Hat Enterprise Linux (RHEL)! In order to be an effective Linux user, you'll need to learn and truly understand some essential concepts and commands. Let's dive into the core aspects of RHEL administration to help you understand these key topics that form the]]></summary>
+        <author>
+            <name>Kedar Makode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comprehensive Full Stack React with Appwrite – Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/comprehensive-full-stack-react-with-appwrite-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/comprehensive-full-stack-react-with-appwrite-tutorial/"/>
+        <updated>2024-01-03T14:19:27.000Z</updated>
+        <summary type="html"><![CDATA[React and Appwrite make a great combination for creating full stack apps.  We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to use React and Appwrite to create full stack applications. This course is designed and delivered by Hitesh Choudhary, a excellent instructor]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyGame Tutorial – How to Build an Alien Abduction game]]></title>
+        <id>https://www.freecodecamp.org/news/pygame-tutorial-alien-abduction-game/</id>
+        <link href="https://www.freecodecamp.org/news/pygame-tutorial-alien-abduction-game/"/>
+        <updated>2024-01-02T23:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Ever since I was a kid, I've been hooked on video games. My first experience with coding involved kind of a wild project – a Tron races simulator in Quick Basic on an ancient IBM computer (I was like 6 years old, so I didn't really understand what I was]]></summary>
+        <author>
+            <name>Juan P. Romano</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Android Proto DataStore – Should You Use It?]]></title>
         <id>https://www.freecodecamp.org/news/android-proto-datastore-should-you-use-it/</id>
@@ -1314,6 +1404,17 @@ MTJ株式会社（本社：東京都港区、代表取締役:山重柾人）は�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[アニメ『ぼっち・ざ・ろっく！』より、寝袋が受注生産商品で登場！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000005014.000016756.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000005014.000016756.html"/>
+        <updated>2023-12-29T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[[株式会社アニメイトホールディングス]
+　はまじあきによる日本の4コマ漫画。『まんがタイムきららMAX』（芳文社）にて、2018年2月号から4月号までゲスト連載後、同年5月号から連載中。2022年10月から12月までアニメ放送。2023年8月には舞台化。2024年...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【公開1日で目標達成】Makuake・アウトドアランキング8位！スマホを地面落下から守る！もっとアクティブにアウトドアを楽しむための落下防止スマホストラップ！12/28より先行予約販売中！]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000212.000059927.html</id>
         <link href="https://prtimes.jp/main/html/rd/p/000000212.000059927.html"/>
@@ -1636,7 +1737,7 @@ MTJ株式会社（本社：東京都港区、代表取締役:山重柾人）は�
         <id>https://prtimes.jp/main/html/rd/p/000000079.000051187.html</id>
         <link href="https://prtimes.jp/main/html/rd/p/000000079.000051187.html"/>
         <updated>2023-12-29T08:15:03.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社ネクシィーズグループ]
+        <summary type="html"><![CDATA[[株式会社NEXYZ.Group]
 [画像1: https://prtimes.jp/i/51187/79/resize/d51187-79-804191fae3516d97b494-0.jpg ]
 
 ▼金沢信用金庫のニュースリリース
@@ -1834,18 +1935,6 @@ MTJ株式会社（本社：東京都港区、代表取締役:山重柾人）は�
 ・対象：同社オンラインメディア「チャレンジャーズアカデミー」の全会員（2023年9月末時点610名）
 ・有効回答数：106名
 ・回答者平均年齢：32.3...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【24%off】「Y24」がホリデーセールを開催！このお得な機会をお見逃しなく！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000535.000016079.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000535.000016079.html"/>
-        <updated>2023-12-29T08:15:03.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社PRINCIPE prive]
-Y24が日頃の感謝を込め、日本公式サイトにてホリデーセールを開催いたします。2024年1月3日(水) までの期間中、全商品24％offでご提供いたします。この機会をお見逃しなく！
-[画像1: https://prtimes.jp/i/16079/...]]></summary>
         <author>
             <name>PR TIMES</name>
         </author>
@@ -2335,19 +2424,6 @@ Amazon初売りセールが開催される
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“世界初”となる企画『カウントダウンドローンショー2023-2024＠勝尾寺』2023年12月31日深夜に開催ー「勝尾寺×ブレイクスルー×レッドクリフ」三者連携企画ー]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000014.000111535.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000014.000111535.html"/>
-        <updated>2023-12-29T04:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[勝尾寺]
-[画像1: https://prtimes.jp/i/111535/14/resize/d111535-14-62a1428dbebb2e3e4ff4-12.jpg ]
-
-大阪府箕面市にある勝尾寺は、平安時代より「勝利を掴む寺」「勝ち運を授かる寺」として、源氏や足利、豊臣、徳川な...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenAIのGPTを活用したセキュリティチェックシートAI回答システム「QUICK CHECK」の代理店販売を開始]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000004.000128445.html</id>
         <link href="https://prtimes.jp/main/html/rd/p/000000004.000128445.html"/>
@@ -2641,36 +2717,12 @@ Locked，Delivered，Trusted。
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Instagram自動化ツール「エルグラム」が来月、無料登録開始]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000056.000059114.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000056.000059114.html"/>
-        <updated>2023-12-28T05:15:02.000Z</updated>
-        <summary type="html"><![CDATA[[ミショナ]
-[画像: https://prcdn.freetls.fastly.net/release_image/59114/56/59114-56-b38355323c7f92c1c78c2601f6d1bdfd-1920x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【横浜・八景島シーパラダイス】深海生物を見て、さわって、知って、味わう！『深海生物まつり』【２０２４年１月４日（木）～２月２９日（木）】]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000604.000011571.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000604.000011571.html"/>
-        <updated>2023-12-28T04:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社 横浜八景島]
-『横浜・八景島シーパラダイス』では、２０２４年１月４日（木）～２月２９日（木）の期間、深海生物を「見る」、「さわる」、「知る」、「味わう」ことができる、深海生物にフィーチャーしたイベント「深海生物...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【新NISA時代に積極投資を求める方へ】実践的投資学習プラットフォーム「Fincs(フィンクス)」が2024年1月に登場！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000003.000128559.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000003.000128559.html"/>
-        <updated>2023-12-28T01:45:02.000Z</updated>
-        <summary type="html"><![CDATA[[株式会社アルカド]
-Fincsは投資を学びたい方と、投資について伝えたい現役投資家を繋ぐ実践的投資学習プラットフォームです
-
-[画像1: https://prcdn.freetls.fastly.net/release_image/128559/3/128559-3-258f6d9d20dbc9f4973e8d1ae...]]></summary>
+        <title type="html"><![CDATA[国産オーガニックを拡げるチャレンジ！国産有機原料を使った「自然派Style国産有機純米酢」「自然派Style有機生みそ」が新たに登場しました。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000012.000121079.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000012.000121079.html"/>
+        <updated>2023-12-28T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[[コープ自然派事業連合]
+コープ自然派事業連合（本部：兵庫県神戸市）では2023年11月20日(月)から、国産有機米で作った「自然派Style有機純米酢」の注文受付を開始。さらに、12月25日(月)より国産有機大豆で作った「自然派Style有機生み...]]></summary>
         <author>
             <name>PR TIMES</name>
         </author>
@@ -2712,16 +2764,6 @@ Fincsは投資を学びたい方と、投資について伝えたい現役投資
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Idempotence in HTTP Methods – Explained with CRUD Examples]]></title>
-        <id>https://www.freecodecamp.org/news/idempotency-in-http-methods/</id>
-        <link href="https://www.freecodecamp.org/news/idempotency-in-http-methods/"/>
-        <updated>2023-12-22T21:19:43.000Z</updated>
-        <summary type="html"><![CDATA[Idempotence refers to a program's ability to maintain a particular result even after repeated actions.  For example, let's say you have a button that only opens a door when pressed. This button does not have the ability to close the door, so it stays open even when it's pressed]]></summary>
-        <author>
-            <name>Yemi Ojedapo</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The View Transitions API And Delightful UI Animations (Part 1)]]></title>
         <id>https://smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/</id>
         <link href="https://smashingmagazine.com/2023/12/view-transitions-api-ui-animations-part1/"/>
@@ -2729,46 +2771,6 @@ Fincsは投資を学びたい方と、投資について伝えたい現役投資
         <summary type="html"><![CDATA[The View Transitions API is a new — but game-changing — feature that allows us to do the types of reactive state-based UI and page transitions that have traditionally been exclusive to JavaScript frameworks. In the first part of this mini two-part series, Adrian Bece thoroughly explains why we need the API and demonstrates its basic usage.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Adrian Bece)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Behavioral Interviews for Software Developers]]></title>
-        <id>https://www.freecodecamp.org/news/mastering-behavioral-interviews-for-software-developers/</id>
-        <link href="https://www.freecodecamp.org/news/mastering-behavioral-interviews-for-software-developers/"/>
-        <updated>2023-12-21T16:30:17.000Z</updated>
-        <summary type="html"><![CDATA[In the competitive world of software development, acing technical interviews is often considered the key to landing a dream job. However, there's another crucial aspect that aspiring developers frequently overlook – behavioral interviews. We just posted a new course on the freeCodeCamp.org YouTube channel that provides a guide to mastering]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Full Stack JavaScript Course: Build a Hotel Management Site with Next.js, Sanity.io, and Tailwind CSS]]></title>
-        <id>https://www.freecodecamp.org/news/build-and-deploy-a-hotel-management-site/</id>
-        <link href="https://www.freecodecamp.org/news/build-and-deploy-a-hotel-management-site/"/>
-        <updated>2023-12-20T23:54:30.000Z</updated>
-        <summary type="html"><![CDATA[Building a complex website is a great way to learn how a bunch of technologies work together. We just posted a 10-hour course on the freeCodeCamp.org YouTube channel that will teach you how to build a hotel management website using Next.js, React, Sanity.io, Tailwind CSS, and Stripe's payment API. Lari]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn English for Developers – freeCodeCamp A2 English Curriculum]]></title>
-        <id>https://www.freecodecamp.org/news/learn-english-for-developers-a2/</id>
-        <link href="https://www.freecodecamp.org/news/learn-english-for-developers-a2/"/>
-        <updated>2023-12-20T17:26:20.000Z</updated>
-        <summary type="html"><![CDATA[I'm thrilled to announce that the freeCodeCamp community has been developing a comprehensive English for Developers curriculum. Together, we're going to help millions of non-native English speakers prepare for careers in tech. The trailer for freeCodeCamp's new English for Developers curriculumWhy teach English? For the first 9 years of freeCodeCamp's]]></summary>
-        <author>
-            <name>Quincy Larson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use an API with Postman – A Step-by-Step Guide]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-an-api-with-postman/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-an-api-with-postman/"/>
-        <updated>2023-12-20T16:57:30.000Z</updated>
-        <summary type="html"><![CDATA[In the field of software development, effective communication between different software systems is made possible through the essential function of Application Programming Interfaces (APIs).  APIs allow developers to access and use the functionalities of a particular application, service, or platform. Postman is a powerful and user-friendly tool that simplifies]]></summary>
-        <author>
-            <name>Joan Ayebola</name>
         </author>
     </entry>
     <entry>
@@ -2863,16 +2865,6 @@ Fincsは投資を学びたい方と、投資について伝えたい現役投資
         <summary type="html"><![CDATA[Five-second testing is a popular method of usability research used in the industry, yet in essence, its core belief boils down to virtually a superstition. Eduard Kuric looks under the hood at how first impressions are affected by various factors and how UX researchers and product owners can ensure that the user’s first steps can get off on the right foot.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Eduard Kuric)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Marketing Changed OOP In JavaScript]]></title>
-        <id>https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/</id>
-        <link href="https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/"/>
-        <updated>2023-12-04T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Discussing the decisions surrounding JavaScript prototypes, the article by Juan Diego Rodriguez scrutinizes their origin, examines missteps in the design, and explores how these factors have affected the way we write JavaScript today.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Juan Diego Rodríguez)</name>
         </author>
     </entry>
 </feed>
