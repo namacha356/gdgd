@@ -6,6 +6,26 @@
       "siteUrl": "https://prtimes.jp",
       "articles": [
         {
+          "id": "https://prtimes.jp/main/html/rd/p/000000002.000153577.html",
+          "author": null,
+          "description": "[Maison KOBE]\n[画像1: https://prcdn.freetls.fastly.net/release_image/153577/2/153577-2-1b06b492be3be96fd98673bd9561c2aa-3900x2080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000002.000153577.html",
+          "publishedOn": "2025-01-01T12:40:01.000Z",
+          "wordCount": 1568,
+          "title": "お香＝ルームフレグランス!?　兵庫県淡路島の伝統あるお香を現代のライフスタイルへ【Makuakeにて先行販売開始！！】",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/153577/2/153577-2-2dd1e8ea7613322d09181495a9d6ef95-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
+          "id": "https://prtimes.jp/main/html/rd/p/000000142.000063502.html",
+          "author": null,
+          "description": "[加茂株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/63502/142/63502-142-82ee11008b1cae59894805a9b635e621-900x600.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000142.000063502.html",
+          "publishedOn": "2025-01-01T12:40:01.000Z",
+          "wordCount": 1468,
+          "title": "＜お知らせ＞富士花鳥園は2025年1月14日（火）から休園します",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/63502/142/63502-142-82ee11008b1cae59894805a9b635e621-900x600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
           "id": "https://prtimes.jp/main/html/rd/p/000000033.000072004.html",
           "author": null,
           "description": "[アリスグリント]\n[画像1: https://prcdn.freetls.fastly.net/release_image/72004/33/72004-33-9994f5c1d411fb9efc7952b4a374e95f-1929x2700.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
@@ -124,26 +144,6 @@
           "wordCount": 1470,
           "title": "マキタスポーツ お酒に向き合うために綺麗な身体を意識？！身体を作って挑む！ロビンソン酒場漂流記",
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/125910/341/125910-341-02e0dcf4823e7fda142ee3e6e6c751b3-1920x1280.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000002.000153577.html",
-          "author": null,
-          "description": "[Maison KOBE]\n[画像1: https://prcdn.freetls.fastly.net/release_image/153577/2/153577-2-1b06b492be3be96fd98673bd9561c2aa-3900x2080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000002.000153577.html",
-          "publishedOn": "2024-12-31T11:40:01.000Z",
-          "wordCount": 1568,
-          "title": "お香＝ルームフレグランス!?　兵庫県淡路島の伝統あるお香を現代のライフスタイルへ【Makuakeにて先行販売開始！！】",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/153577/2/153577-2-2dd1e8ea7613322d09181495a9d6ef95-3900x2600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000142.000063502.html",
-          "author": null,
-          "description": "[加茂株式会社]\n[画像1: https://prcdn.freetls.fastly.net/release_image/63502/142/63502-142-82ee11008b1cae59894805a9b635e621-900x600.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000142.000063502.html",
-          "publishedOn": "2024-12-31T11:40:01.000Z",
-          "wordCount": 1468,
-          "title": "＜お知らせ＞富士花鳥園は2025年1月14日（火）から休園します",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/63502/142/63502-142-82ee11008b1cae59894805a9b635e621-900x600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
           "id": "https://prtimes.jp/main/html/rd/p/000000620.000011088.html",
@@ -1826,6 +1826,16 @@
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/122416/446/122416-446-37d2fbb0354285f9d2341ee5300efae3-1200x600.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         },
         {
+          "id": "https://prtimes.jp/main/html/rd/p/000000003.000153848.html",
+          "author": null,
+          "description": "[NIC International College in Japan]\n[画像1: https://prcdn.freetls.fastly.net/release_image/153848/3/153848-3-345379e6c664004d46102c6d854a8f8c-1200x630.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
+          "link": "https://prtimes.jp/main/html/rd/p/000000003.000153848.html",
+          "publishedOn": "2024-12-30T03:15:03.000Z",
+          "wordCount": 1768,
+          "title": "≪NIC主催「おらがまちピッチ in 鹿児島」≫　鹿児島の中高生たち３０名が英語で地元自慢を熱弁！会場中が鹿児島愛に溢れた感動のプレゼンに拍手喝采した大会になりました。最優秀賞は・・・・!?",
+          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/153848/3/153848-3-ce2b06a0233c95fe6452a011d1ec568a-1500x1000.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
+        },
+        {
           "id": "https://prtimes.jp/main/html/rd/p/000002802.000072793.html",
           "author": null,
           "description": "[国立大学法人岡山大学]\n[画像1: https://prcdn.freetls.fastly.net/release_image/72793/2802/72793-2802-f8a5c0301e701154de885d5518d5c94c-1946x1110.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bound...",
@@ -1994,16 +2004,6 @@
           "wordCount": 1572,
           "title": "医療介護・福祉関係者を対象に無料オンライン勉強会『在宅医療とケアを繋ぐユースタイルケア勉強会』2025 年1月より通年開催決定！",
           "imageUrl": "https://prcdn.freetls.fastly.net/release_image/151774/5/151774-5-bc3d9c50c19a52478ae647b7ec4304af-1080x1080.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
-        },
-        {
-          "id": "https://prtimes.jp/main/html/rd/p/000000288.000027564.html",
-          "author": null,
-          "description": "[SHE]\n[画像1: https://prcdn.freetls.fastly.net/release_image/27564/288/27564-288-659dd4bdcc9b76b5747d23bbfe877dcf-2100x1400.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...",
-          "link": "https://prtimes.jp/main/html/rd/p/000000288.000027564.html",
-          "publishedOn": "2024-12-26T03:40:02.000Z",
-          "wordCount": 1737,
-          "title": "渋谷凪咲さんが4つの職種にキャリアアップ！新年の始まりに自分らしいキャリアへ踏み出す女性を応援する「SHElikes」新CMを2025年1月1日（水）より放映開始",
-          "imageUrl": "https://prcdn.freetls.fastly.net/release_image/27564/288/27564-288-659dd4bdcc9b76b5747d23bbfe877dcf-2100x1400.jpg?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260"
         }
       ]
     },
@@ -2018,7 +2018,7 @@
           "description": "I'm more thankful this time around because, last year, I didn't even get to write this post. But now that I'm back, writing this feels so, so, so good. There's a lot more gusto going into my writing when I say: thank you so very much! Let's tie a bow on this year and round up what happened around here in 2024.\nThank You (2024 Edition) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
           "link": "https://css-tricks.com/thank-you-2024-edition/",
           "publishedOn": "2024-12-30T16:15:37.000Z",
-          "wordCount": 3607,
+          "wordCount": 3633,
           "title": "Thank You (2024 Edition)",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/383295"
         },
@@ -2131,21 +2131,6 @@
           "wordCount": 1941,
           "title": "The Law of Diminishing Returns",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382846"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382731",
-          "author": "Ryan Trimble",
-          "description": "We can anchor one element to another. We can also attach one element to multiple anchors. In this experiment, Ryan riffs on those ideas and comes up with a new way to transition between two anchors and the result is a practical use case that would normally require JavaScript.\nOne of Those “Onboarding” UIs, With Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/one-of-those-onboarding-uis-with-anchor-positioning/",
-          "publishedOn": "2024-12-02T14:02:13.000Z",
-          "wordCount": 4886,
-          "title": "One of Those “Onboarding” UIs, With Anchor Positioning",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2024/11/anchor-view-driven-animation.mov",
-            "length": "7007669",
-            "type": "video/quicktime"
-          },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382731"
         }
       ]
     },
@@ -2155,12 +2140,27 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "Searching for the most flexible front-end workflows and toolkits, it’s easy to forget how powerful some of the fundamentals on the web have become these days. This post is a journey through new front-end features and what they are capable of.",
+          "link": "https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/",
+          "publishedOn": "2024-12-31T12:00:00.000Z",
+          "wordCount": 5516,
+          "title": "New Front-End Features For Designers In 2025",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/new-front-end-features-for-designers-in-2025/anchor-positioning-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/new-front-end-features-for-designers-in-2025/anchor-positioning-opt.png"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/",
           "author": "hello@smashingmagazine.com (Cosima Mielke)",
           "description": "Maybe 2025 has already started as you’re reading this, maybe you’re still waiting for the big countdown to begin — either way, it’s never too late or too early for some New Year’s inspiration! Our new collection of desktop wallpapers has got you covered.",
           "link": "https://smashingmagazine.com/2024/12/desktop-wallpaper-calendars-january-2025/",
           "publishedOn": "2024-12-31T10:00:00.000Z",
-          "wordCount": 4550,
+          "wordCount": 4662,
           "title": "New Year, New Hopes, New Dreams (January 2025 Wallpapers Edition)",
           "enclosure": {
             "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9401740e-29f2-4dc7-828b-a7558c7e82a7/jan-18-open-the-doors-of-the-new-year-preview-opt.png",
@@ -2175,7 +2175,7 @@
           "description": "Design leaders are expected to deliver the impossible. Instead of trying, we need to redefine our role from implementor to enabler.",
           "link": "https://smashingmagazine.com/2024/12/the-design-leader-dilemma/",
           "publishedOn": "2024-12-23T10:00:00.000Z",
-          "wordCount": 4062,
+          "wordCount": 4060,
           "title": "The Design Leader Dilemma",
           "enclosure": {
             "url": "http://files.smashing.media/articles/the-design-leader-dilemma/the-design-leader-dilemma.jpg",
@@ -2190,7 +2190,7 @@
           "description": "There are many ways to elevate a design project from good to incredible. For web and product designers, it’s not just about adding more animations and flair. What it truly comes down to is a reframing of your thought processes starting before the project even kicks off. Olivia De Alba presents three approaches that designers can implement and which will change the way they make their projects more successful.",
           "link": "https://smashingmagazine.com/2024/12/three-approaches-amplify-design-projects/",
           "publishedOn": "2024-12-17T10:00:00.000Z",
-          "wordCount": 5850,
+          "wordCount": 5837,
           "title": "Three Approaches To Amplify Your Design Projects",
           "enclosure": {
             "url": "http://files.smashing.media/articles/three-approaches-amplify-design-projects/three-approaches-amplify-design-projects.jpg",
@@ -2205,7 +2205,7 @@
           "description": "10 years after scroll-driven animations were first proposed, they’re finally here — no JavaScript, no dependencies, no libraries, just pure CSS.",
           "link": "https://smashingmagazine.com/2024/12/introduction-css-scroll-driven-animations/",
           "publishedOn": "2024-12-11T15:00:00.000Z",
-          "wordCount": 6664,
+          "wordCount": 6655,
           "title": "An Introduction To CSS Scroll-Driven Animations: Scroll And View Progress Timelines",
           "enclosure": {
             "url": "http://files.smashing.media/articles/introduction-css-scroll-driven-animations/introduction-css-scroll-driven-animations.jpg",
@@ -2220,7 +2220,7 @@
           "description": "SVG arcs demystified! Akshay Gupta explains how to master radii, rotation, and arc direction to create stunning curves. Make arcs a powerful part of your SVG toolkit for creating more dynamic, intricate designs with confidence.",
           "link": "https://smashingmagazine.com/2024/12/mastering-svg-arcs/",
           "publishedOn": "2024-12-09T09:00:00.000Z",
-          "wordCount": 4341,
+          "wordCount": 4331,
           "title": "Mastering SVG Arcs",
           "enclosure": {
             "url": "http://files.smashing.media/articles/mastering-svg-arcs/mastering-svg-arcs.jpg",
@@ -2235,7 +2235,7 @@
           "description": "Few things are as frustrating to a user as when a site won’t respond. Unfortunately, it’s also an all-too-common scenario. Many websites and apps depend on so many elements that one of any number of errors could cause the whole thing to fail. As prevalent as such instances may be, they’re preventable through the practice of graceful degradation.",
           "link": "https://smashingmagazine.com/2024/12/importance-graceful-degradation-accessible-interface-design/",
           "publishedOn": "2024-12-06T09:00:00.000Z",
-          "wordCount": 4337,
+          "wordCount": 4339,
           "title": "The Importance Of Graceful Degradation In Accessible Interface Design",
           "enclosure": {
             "url": "http://files.smashing.media/articles/importance-graceful-degradation-accessible-interface-design/importance-graceful-degradation-accessible-interface-design.jpg",
@@ -2243,21 +2243,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/importance-graceful-degradation-accessible-interface-design/importance-graceful-degradation-accessible-interface-design.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
-          "author": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
-          "description": "Forms are already notoriously tough to customize and style — to the extent that we’re already starting to see new ideas for more flexible control. But what we don’t often discuss is designing good-form experiences beyond validation. That’s what Jima Victor discusses in this article, focusing specifically on creating multi-step forms that involve navigation between sections.",
-          "link": "https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/",
-          "publishedOn": "2024-12-03T10:00:00.000Z",
-          "wordCount": 5232,
-          "title": "Creating An Effective Multistep Form For Better User Experience",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/creating-effective-multistep-form-better-user-experience/creating-effective-multistep-form-better-user-experience.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/creating-effective-multistep-form-better-user-experience/creating-effective-multistep-form-better-user-experience.jpg"
         }
       ]
     },

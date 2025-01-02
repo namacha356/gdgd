@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://namacha356.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-01T01:40:38.732Z</updated>
+    <updated>2025-01-02T01:25:22.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://namacha356.github.io/rss/index.html"/>
     <link rel="self" href="https://namacha356.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[お香＝ルームフレグランス!?　兵庫県淡路島の伝統あるお香を現代のライフスタイルへ【Makuakeにて先行販売開始！！】]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000002.000153577.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000002.000153577.html"/>
+        <updated>2025-01-01T12:40:01.000Z</updated>
+        <summary type="html"><![CDATA[[Maison KOBE]
+[画像1: https://prcdn.freetls.fastly.net/release_image/153577/2/153577-2-1b06b492be3be96fd98673bd9561c2aa-3900x2080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＜お知らせ＞富士花鳥園は2025年1月14日（火）から休園します]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000142.000063502.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000142.000063502.html"/>
+        <updated>2025-01-01T12:40:01.000Z</updated>
+        <summary type="html"><![CDATA[[加茂株式会社]
+[画像1: https://prcdn.freetls.fastly.net/release_image/63502/142/63502-142-82ee11008b1cae59894805a9b635e621-900x600.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[大人気アニメ『ダンジョンに出会いを求めるのは間違っているだろうかＶ』より、「リュー・リオン」がレベル６バージョンの姿で1/7スケールでフィギュア化！ご予約受付開始！]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000033.000072004.html</id>
@@ -139,25 +161,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[お香＝ルームフレグランス!?　兵庫県淡路島の伝統あるお香を現代のライフスタイルへ【Makuakeにて先行販売開始！！】]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000002.000153577.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000002.000153577.html"/>
-        <updated>2024-12-31T11:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[Maison KOBE]
-[画像1: https://prcdn.freetls.fastly.net/release_image/153577/2/153577-2-1b06b492be3be96fd98673bd9561c2aa-3900x2080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <title type="html"><![CDATA[New Front-End Features For Designers In 2025]]></title>
+        <id>https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/</id>
+        <link href="https://smashingmagazine.com/2024/12/new-front-end-features-for-designers-in-2025/"/>
+        <updated>2024-12-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Searching for the most flexible front-end workflows and toolkits, it’s easy to forget how powerful some of the fundamentals on the web have become these days. This post is a journey through new front-end features and what they are capable of.]]></summary>
         <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＜お知らせ＞富士花鳥園は2025年1月14日（火）から休園します]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000142.000063502.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000142.000063502.html"/>
-        <updated>2024-12-31T11:40:01.000Z</updated>
-        <summary type="html"><![CDATA[[加茂株式会社]
-[画像1: https://prcdn.freetls.fastly.net/release_image/63502/142/63502-142-82ee11008b1cae59894805a9b635e621-900x600.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
-        <author>
-            <name>PR TIMES</name>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
     <entry>
@@ -2080,6 +2090,17 @@ https://camp-fire.jp/projects/795229/view
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[≪NIC主催「おらがまちピッチ in 鹿児島」≫　鹿児島の中高生たち３０名が英語で地元自慢を熱弁！会場中が鹿児島愛に溢れた感動のプレゼンに拍手喝采した大会になりました。最優秀賞は・・・・!?]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000003.000153848.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000003.000153848.html"/>
+        <updated>2024-12-30T03:15:03.000Z</updated>
+        <summary type="html"><![CDATA[[NIC International College in Japan]
+[画像1: https://prcdn.freetls.fastly.net/release_image/153848/3/153848-3-345379e6c664004d46102c6d854a8f8c-1200x630.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【岡山大学】第3陣となる国連貿易開発会議（UNCTAD）短期プログラム若手女性研究者が那須保友学長を訪問しました]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000002802.000072793.html</id>
         <link href="https://prtimes.jp/main/html/rd/p/000002802.000072793.html"/>
@@ -2263,17 +2284,6 @@ https://camp-fire.jp/projects/795229/view
         <updated>2024-12-27T03:40:02.000Z</updated>
         <summary type="html"><![CDATA[[ユースタイルラボラトリー株式会社]
 [画像1: https://prcdn.freetls.fastly.net/release_image/151774/5/151774-5-bc3d9c50c19a52478ae647b7ec4304af-1080x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[渋谷凪咲さんが4つの職種にキャリアアップ！新年の始まりに自分らしいキャリアへ踏み出す女性を応援する「SHElikes」新CMを2025年1月1日（水）より放映開始]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000288.000027564.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000288.000027564.html"/>
-        <updated>2024-12-26T03:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[SHE]
-[画像1: https://prcdn.freetls.fastly.net/release_image/27564/288/27564-288-659dd4bdcc9b76b5747d23bbfe877dcf-2100x1400.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
         <author>
             <name>PR TIMES</name>
         </author>
@@ -2545,27 +2555,6 @@ Knowing CSS is Mastery to Frontend Development originally published on CSS-Trick
 The Law of Diminishing Returns originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating An Effective Multistep Form For Better User Experience]]></title>
-        <id>https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/</id>
-        <link href="https://smashingmagazine.com/2024/12/creating-effective-multistep-form-better-user-experience/"/>
-        <updated>2024-12-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Forms are already notoriously tough to customize and style — to the extent that we’re already starting to see new ideas for more flexible control. But what we don’t often discuss is designing good-form experiences beyond validation. That’s what Jima Victor discusses in this article, focusing specifically on creating multi-step forms that involve navigation between sections.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Amejimaobari Ollornwi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One of Those “Onboarding” UIs, With Anchor Positioning]]></title>
-        <id>https://css-tricks.com/?p=382731</id>
-        <link href="https://css-tricks.com/one-of-those-onboarding-uis-with-anchor-positioning/"/>
-        <updated>2024-12-02T14:02:13.000Z</updated>
-        <summary type="html"><![CDATA[We can anchor one element to another. We can also attach one element to multiple anchors. In this experiment, Ryan riffs on those ideas and comes up with a new way to transition between two anchors and the result is a practical use case that would normally require JavaScript.
-One of Those “Onboarding” UIs, With Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
         </author>
     </entry>
 </feed>
