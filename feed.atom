@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://namacha356.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2025-01-02T01:25:22.517Z</updated>
+    <updated>2025-01-03T01:26:16.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://namacha356.github.io/rss/index.html"/>
     <link rel="self" href="https://namacha356.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Make Learning to Code Easier by Focusing on the Fundamentals]]></title>
+        <id>6776aff4291cde01e8a6dff0</id>
+        <link href="https://www.freecodecamp.org/news/how-to-make-learning-to-code-easier-by-focusing-on-the-fundamentals/"/>
+        <updated>2025-01-02T15:25:40.000Z</updated>
+        <summary type="html"><![CDATA[It’s the beginning of the year again, and perhaps you’re still struggling to learn that programming language. We’ve all been there. Let me share a story from my own journey. In 2016, I thought I wasn’t cut out for programming. After months of trying ...]]></summary>
+        <author>
+            <name>Spruce Emmanuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Optimize Next.js Web Apps for Better Performance]]></title>
+        <id>6776a323218b455d646035b2</id>
+        <link href="https://www.freecodecamp.org/news/optimize-nextjs-web-apps-for-better-performance/"/>
+        <updated>2025-01-02T14:30:59.000Z</updated>
+        <summary type="html"><![CDATA[As engineers, we often get so carried away with other aspects of development that we overlook how users perceive and interact with our applications. This oversight can result in users leaving the app almost as soon as they arrive, leading to higher b...]]></summary>
+        <author>
+            <name>Ayantunji Timilehin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[お香＝ルームフレグランス!?　兵庫県淡路島の伝統あるお香を現代のライフスタイルへ【Makuakeにて先行販売開始！！】]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000002.000153577.html</id>
@@ -713,6 +733,39 @@ Thank You (2024 Edition) originally published on CSS-Tricks, which is part of th
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[『フェスティバトル』イベント「ネオ・サンライズ　新たなる希望」 開催！]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000001631.000004473.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000001631.000004473.html"/>
+        <updated>2024-12-30T07:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[コロプラ]
+[画像1: https://prcdn.freetls.fastly.net/release_image/4473/1631/4473-1631-599a83d989c4c3125dea78c9772941a4-1240x608.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&a...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[かまいたち、アインシュタイン、守谷日和がゲスト！『水田信二の注文の多い料理教室～同期芸人 かまいたち アインシュタイン 守谷日和がやってきた新年会SP～』]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000003715.000029501.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000003715.000029501.html"/>
+        <updated>2024-12-30T07:40:02.000Z</updated>
+        <summary type="html"><![CDATA[[吉本興業株式会社]
+[画像: https://prcdn.freetls.fastly.net/release_image/29501/3715/29501-3715-228436804a92f11695ad6259f1cd6590-1280x720.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学校向け生成AIサービス「スタディポケット」、文部科学省『初等中等教育段階における生成AIの利活用に関するガイドライン』Ver2.0 の内容に基づいて応答するチャット機能を公開。]]></title>
+        <id>https://prtimes.jp/main/html/rd/p/000000050.000049664.html</id>
+        <link href="https://prtimes.jp/main/html/rd/p/000000050.000049664.html"/>
+        <updated>2024-12-30T07:15:02.000Z</updated>
+        <summary type="html"><![CDATA[[スタディポケット]
+[画像1: https://prcdn.freetls.fastly.net/release_image/49664/50/49664-50-b61ae3bb47c7aa974fd04f3a637a8cfe-2358x1672.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
+        <author>
+            <name>PR TIMES</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[郷土料理ランチ付きのイグルー作り体験、参加者募集中]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000000179.000067262.html</id>
         <link href="https://prtimes.jp/main/html/rd/p/000000179.000067262.html"/>
@@ -824,17 +877,6 @@ Thank You (2024 Edition) originally published on CSS-Tricks, which is part of th
         <updated>2024-12-30T07:15:02.000Z</updated>
         <summary type="html"><![CDATA[[バルス株式会社]
 [画像1: https://prcdn.freetls.fastly.net/release_image/34713/111/34713-111-0bb4b0b822f481d3134926bf06585e01-1920x1080.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[学校向け生成AIサービス「スタディポケット」、文部科学省『初等中等教育段階における生成AIの利活用に関するガイドライン』Ver2.0 の内容に基づいて応答するチャット機能を公開。]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000050.000049664.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000050.000049664.html"/>
-        <updated>2024-12-30T07:15:02.000Z</updated>
-        <summary type="html"><![CDATA[[スタディポケット]
-[画像1: https://prcdn.freetls.fastly.net/release_image/49664/50/49664-50-b61ae3bb47c7aa974fd04f3a637a8cfe-2358x1672.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
         <author>
             <name>PR TIMES</name>
         </author>
@@ -2090,17 +2132,6 @@ https://camp-fire.jp/projects/795229/view
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[≪NIC主催「おらがまちピッチ in 鹿児島」≫　鹿児島の中高生たち３０名が英語で地元自慢を熱弁！会場中が鹿児島愛に溢れた感動のプレゼンに拍手喝采した大会になりました。最優秀賞は・・・・!?]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000003.000153848.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000003.000153848.html"/>
-        <updated>2024-12-30T03:15:03.000Z</updated>
-        <summary type="html"><![CDATA[[NIC International College in Japan]
-[画像1: https://prcdn.freetls.fastly.net/release_image/153848/3/153848-3-345379e6c664004d46102c6d854a8f8c-1200x630.jpg?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[【岡山大学】第3陣となる国連貿易開発会議（UNCTAD）短期プログラム若手女性研究者が那須保友学長を訪問しました]]></title>
         <id>https://prtimes.jp/main/html/rd/p/000002802.000072793.html</id>
         <link href="https://prtimes.jp/main/html/rd/p/000002802.000072793.html"/>
@@ -2278,18 +2309,7 @@ https://camp-fire.jp/projects/795229/view
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[医療介護・福祉関係者を対象に無料オンライン勉強会『在宅医療とケアを繋ぐユースタイルケア勉強会』2025 年1月より通年開催決定！]]></title>
-        <id>https://prtimes.jp/main/html/rd/p/000000005.000151774.html</id>
-        <link href="https://prtimes.jp/main/html/rd/p/000000005.000151774.html"/>
-        <updated>2024-12-27T03:40:02.000Z</updated>
-        <summary type="html"><![CDATA[[ユースタイルラボラトリー株式会社]
-[画像1: https://prcdn.freetls.fastly.net/release_image/151774/5/151774-5-bc3d9c50c19a52478ae647b7ec4304af-1080x1080.png?width=536&quality=85%2C75&format=jpeg&auto=webp&fit=bounds&am...]]></summary>
-        <author>
-            <name>PR TIMES</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major freeCodeCamp Curriculum Updates Going Live in Time for Christmas]]></title>
+        <title type="html"><![CDATA[Major freeCodeCamp Curriculum Updates Now Live in 2025]]></title>
         <id>676a0ca777f09ac78ed9802d</id>
         <link href="https://www.freecodecamp.org/news/christmas-2025-freecodecamp-curriculum-updates/"/>
         <updated>2024-12-24T01:21:43.000Z</updated>
@@ -2386,26 +2406,6 @@ The Little Triangle in the Tooltip originally published on CSS-Tricks, which is 
         <link href="https://www.freecodecamp.org/news/aws-solutions-architect-professional-sap-c02-certification-course/"/>
         <updated>2024-12-19T16:02:06.000Z</updated>
         <summary type="html"><![CDATA[Earning the AWS Certified Solutions Architect – Professional certification is a significant step for cloud professionals who want to validate their advanced skills in designing and deploying complex solutions on AWS. This credential is highly respect...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn Game Development with JavaScript and Kaplay]]></title>
-        <id>67644277d968c624aba9ad8b</id>
-        <link href="https://www.freecodecamp.org/news/learn-game-development-with-javascript-and-kaplay/"/>
-        <updated>2024-12-19T15:57:43.000Z</updated>
-        <summary type="html"><![CDATA[Game development is an exciting way to bring your creative ideas to life. If you're new to coding or want to expand your skills, JavaScript is one of the best programming languages to learn. JavaScript is versatile and widely used for web-based games...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build Smarter Spring Boot Applications with Spring AI]]></title>
-        <id>67644173f5e203def9a9e2b4</id>
-        <link href="https://www.freecodecamp.org/news/build-smarter-spring-boot-applications-with-spring-ai/"/>
-        <updated>2024-12-19T15:53:23.000Z</updated>
-        <summary type="html"><![CDATA[If you're a Java developer working with Spring Boot, you might wonder how to harness the power of AI in your projects. The good news is that Spring AI, an emerging tool within the Spring ecosystem, offers seamless AI integrations that are both access...]]></summary>
         <author>
             <name>Beau Carnes</name>
         </author>
